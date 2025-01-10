@@ -1,6 +1,6 @@
 # Ecommerce WebApp Using Django Framework
 
-This is an e-commerce app which like amazon is capable of buying items, adding it into the cart, as an admin you can change the status of the order and can also download the invoice.
+This is an e-commerce app which like amazon is capable of buying items, adding it into the cart, as an admin you can change the status of the order and can also download the invoice and many more.
 
 ![Logo](gitimg/1.PNG)
 
