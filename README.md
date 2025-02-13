@@ -143,10 +143,6 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 <p align="center"> <b> 👉🏻 Created to Learn Django 👈🏻 <b> </p>
  
 <p align="center"> <b> Made with love ❤️ by Kritagya Kumra <b> </p>
